@@ -13,6 +13,6 @@ into this:
 
 ```
 
-condition ? stuff : other stuff
+condition ? "stuff" : "other stuff"
 
 ```
